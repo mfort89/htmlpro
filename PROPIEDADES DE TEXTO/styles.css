@@ -1,0 +1,29 @@
+p {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif; /* letra*/
+    font-size: 16px; /* tamaño de la fuente*/
+    font-weight: bold; /*negrita*/
+    font-style: italic; /*cursiva*/
+    text-align: left justify; /*alineacion de texto*/
+    text-decoration: underline; /*subrayado*/
+    line-height: normal; /*espaciado*/
+    letter-spacing: normal;/* separar letras*/
+   
+
+}
+
+h1 {
+    text-align: center;
+}
+
+span {
+    text-decoration: line-through;
+    color: aqua;
+
+}
+
+
+@font-face {
+    font-family: "NOMBRE DE LA FUENTE";
+    src: url("/fonts/Monserrat-regular.tff") format("truetype");
+}

@@ -1,0 +1,25 @@
+.formulario {
+    background-color: blue;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    /* o solamente utilizamos padding si tiene los mismos valores */
+    /* o abreviacion padding: 20px 20px 10px 10px en el sentido de las agujas del reloj*/
+    /* si ponemos solo 2 valores se define los costados y arriba y abajo padding: 20px 10px  */
+}
+.formulario_input {
+    padding: 10PX;
+    width: 100%;
+    background-color: chartreuse;
+    color: coral;
+}
+
+.formulario_clase {
+letter-spacing: 2px;
+text-transform: uppercase;
+background-color: aquamarine;
+width: 50%;
+color: rebeccapurple; 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

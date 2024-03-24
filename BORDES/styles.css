@@ -1,0 +1,14 @@
+div {
+
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;/* borde */ 
+    border-radius: 5px; /* redondear los bordes en porcentajes redondea mas en px solo redondea las puntas */ 
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    background-color: rgb(71, 141, 69);
+}
+/* border solo remplaza 3 propiedades */ 
+/* border: width style color */ 
+/* se puede modificar solo uno de los lados con top right left bottom*/ 
