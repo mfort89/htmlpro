@@ -1,0 +1,37 @@
+/*SHIFT CONTROL P OPEN USER SETTINGS JSON SE ENCUENTRAN LAS CONFIGURACIONES*/
+div {
+    background-color: #956;
+    padding: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-left: 5px solid #523;
+}
+
+h1 {margin: 0;
+}
+
+
+span {
+    color: #923;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+p {
+    color: #986;
+
+}
+
+/*PX LA PARTE MAS MINIMA DE LUZ EN LA PANTALLA SE DEFINEN IMAGENES, PADDING , MARGIN, FUENTES*/
+/*PT PARA IMPRESIONES*/
+/*mm cm Y PULGADA(in)  SE UTLIZA PARA MEDIDAS QUE SE UTILIZAN EN LA REALIDAD MEDIDAS FISICAS*/
+/*MEDIDAS ABSOLUTAS SON CUANDO NO NECESITAMOS QUE SEA RESPONSIVE*/
+/*UNIDADES RELATIVAS CUANDO UNA UNIDAD DEPENTE DE OTRO VALOR LA MAS 
+COMUN ES EL PORCENTAJE DEFINEN EN RESPECTO AL TAMAÑO DEL CONTENEDOR*/
+/*em y rem  em VA A VALER LO MISMO QUE EL QUE LA MULTIPLICACION DE LA MEDIDA DEL FONT SIZE QUE LA MEDIDA DEL PADRE
+rem BUSCA AL ELEMENTO RAIZ QUE ES HTML Y LO MULTIPLICA IDEAL PARA TIPOGRAFIA*/
+/*vh viweport heigth vw viweport weight que sean la altura y el ancho igual a lo disponible se utilizan mucho para ventanas modales*/
+/*vmax vmin hace una comparacion entre el minimo del heigth y del weight y maximo y lo aplica mide lo mismo que la altura de la letra x */
+/*PORCENTAJES REM VH VW PARA RESPONSIVE*/
+/*PRECISO PX UN ELEMENTO EXACTO*/
+
+

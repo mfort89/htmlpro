@@ -1,0 +1,15 @@
+.box{
+    width: 100px;
+    height: 100px;
+    /*background-color: rgb(155, 25, 15) ;*/
+    /*background-color: #cc5266;*/
+    background-color: #099;
+    margin: 20px;
+    /*RGB RED GREEN AND BLUE 256 PARA CADA TIPO DE ESTOS 3 COLORES 16777216*/
+    /*RGBA TRANSPARENCIA CANAL ALFA OPACIDAD*/
+    /*RGB DEFINIMOS CUANTO COLOR VA A TENER DE CADA UNO /*background-color: rgb(155, 25, 15) ;*/
+    /*SISTEMA HEXADECIMAL background-color: #00FF00;*/
+    /*EN 3 F0F*/
+    /*SIEMPRE SE UTILIZA EL HEXADECIMAL DE 0 A LA f 0 1 2 3 4 5 6 7 8 9 a b c d e f*/
+    /*hsl SE UTILIZA EL RADIO HSL NO RECOMENDADA*/
+}

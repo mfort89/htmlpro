@@ -1,0 +1,16 @@
+.box {
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(#45e, transparent);
+    margin: 0;
+    margin: auto;
+}
+
+.box2 {
+    width: 400px;
+    height: 400px;
+    background: radial-gradient(#45e, transparent);
+    margin: 0;
+    margin: auto;
+}
+

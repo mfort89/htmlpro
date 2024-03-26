@@ -1,0 +1,22 @@
+body {
+background-color: rgb(175, 145, 155);
+
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: #12f; 
+    position: absolute;
+    top: 0;
+    background-size: auto;/*acomoda el tamaño del fondo*//*contain obliga que a que la imagen entre*/
+    /*background-image: ;*//*cover se adapta a la resolucion*/
+    /*backgroun position acomoda la imagen*/
+    /*background-attachmen sigue la imagen al scroll o al algun elemento*/
+    
+
+
+}
+
+/**/
